@@ -7,3 +7,5 @@ set FLASK_ENV=development
 CALL flask run -p 5000
 
 cmd \k
+
+
